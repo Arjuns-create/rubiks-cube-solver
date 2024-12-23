@@ -1,6 +1,5 @@
 //
-// Created by Lakshya Mittal on 17-12-2021.
-//
+// 
 
 #include <bits/stdc++.h>
 //#include "Model/RubiksCube3dArray.cpp"
@@ -20,7 +19,7 @@ int main() {
 //    RubiksCube1dArray object1dArray;
 //    RubiksCubeBitboard objectBitboard;
 //
-//    object3DArray.print();
+//    object#3DArray.print();
 //
 //    if (object3DArray.isSolved()) cout << "SOLVED\n\n";
 //    else cout << "NOT SOLVED\n\n";
